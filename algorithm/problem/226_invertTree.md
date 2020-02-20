@@ -1,4 +1,4 @@
-# [题目](https://leetcode-cn.com/problems/invert-binary-tree/)
+# [翻转一棵二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)
 ```
 翻转一棵二叉树。
 
@@ -25,7 +25,8 @@
 ```
 
 # Solution
-```
+
+```cpp
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
