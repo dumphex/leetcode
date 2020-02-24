@@ -52,7 +52,7 @@ private:
 ```
 
 
-## 迭代
+## 迭代1
 
 ```cpp
 /**
@@ -94,3 +94,46 @@ public:
     }
 };
 ```
+
+## 迭代2
+
+```cpp
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    vector<int> preorderTraversal(TreeNode* root) {
+        vector<int> result;
+        if (root == nullptr) {
+            return result;
+        }
+
+        result.reserve(16);
+        stack<TreeNode *> stack;
+        TreeNode* cur = root;
+
+        while(cur || !stack.empty()) {
+
+            while(cur) {
+                result.push_back(cur->val);
+                stack.push(cur);
+                cur = cur->left;
+            }
+
+            cur = stack.top();
+            stack.pop();
+            cur = cur->right;
+        }
+
+        return result;
+    }
+};
+```
+

@@ -65,26 +65,25 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> result;
-        result.reserve(16);
 
         if (root == nullptr) {
             return result;
         }
 
+        result.reserve(16);
         stack<TreeNode*> stack;
-        TreeNode *p = root;
+        TreeNode *cur = root;
 
-        while(p || !stack.empty()) {
-            while(p) {
-                stack.push(p);
-                p = p->left;
+        while(cur || !stack.empty()) {
+            while(cur) {
+                stack.push(cur);
+                cur = cur->left;
             }
 
-            p = stack.top();
+            cur = stack.top();
             stack.pop();
-            result.push_back(p->val);
-
-            p = p->right;
+            result.push_back(cur->val);
+            cur = cur->right;
         }
 
         return result;
