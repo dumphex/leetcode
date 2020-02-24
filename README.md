@@ -16,6 +16,7 @@ Leetcode
 |137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |144|中等|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[cpp](algorithm/problem/144_preorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |145|困难|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[cpp](algorithm/problem/145_postorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|146|中等|[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)|[cpp](algorithm/problem/146_LRUCache.md)|[哈希表](algorithm/tag/hash_table.md)|
 |151|中等|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|[cpp](algorithm/problem/151_reverseWords.md)|[字符串](algorithm/tag/string.md)|
 |187|中等|[重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)|[cpp](algorithm/problem/187_findRepeatedDnaSequences.md)|[字符串](algorithm/tag/string.md)|
 |215|中等|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|[cpp](algorithm/problem/215_findKthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
