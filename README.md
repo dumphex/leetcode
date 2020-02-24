@@ -26,6 +26,7 @@ Leetcode
 |260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](algorithm/problem/589_preorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |654|中等|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)|[cpp](algorithm/problem/654_constructMaximumBinaryTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|697|简单|[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)|[cpp](algorithm/problem/697_findShortestSubArray.md)|[哈希表](algorithm/tag/hash_table.md)|
 |703|简单|[数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|[cpp](algorithm/problem/703_KthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |951|中等|[翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)|[cpp](algorithm/problem/951_flipEquiv.md)|[二叉树](algorithm/tag/binary_tree.md)|
 
