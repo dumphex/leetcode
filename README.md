@@ -6,6 +6,7 @@ Leetcode
 |---|----|----|--------|--------|
 |1|简单|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[cpp](algorithm/problem/1_twoSum.md)|[哈希表](algorithm/tag/hash_table.md)|
 |24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](algorithm/problem/24_swapPairs.md)|[链表](algorithm/tag/link_list.md)|
+|70|简单|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[cpp](algorithm/problem/70_climbStairs.md)|[动态规划](algorithm/tag/dp.md)|
 |94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[cpp](algorithm/problem/94_inorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |102|中等|[二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[cpp](algorithm/problem/102_levelOrder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |107|简单|[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|[cpp](algorithm/problem/107_levelOrderBottom.md)|[二叉树](algorithm/tag/binary_tree.md)|
