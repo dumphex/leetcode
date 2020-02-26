@@ -30,6 +30,7 @@ Leetcode
 |235|简单|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[cpp](algorithm/problem/235_lowestCommonAncestor.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |322|中等|[零钱兑换](https://leetcode-cn.com/problems/coin-change/)|[cpp](algorithm/problem/322_coinChange.md)|[动态规划](algorithm/tag/dp.md)|
+|392|简单|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|[cpp](algorithm/problem/392_isSubsequence.md)|[字符串](algorithm/tag/string.md)|
 |509|简单|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[cpp](algorithm/problem/509_fib.md)|[动态规划](algorithm/tag/dp.md)|
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](algorithm/problem/589_preorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |654|中等|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)|[cpp](algorithm/problem/654_constructMaximumBinaryTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
