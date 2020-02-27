@@ -19,6 +19,7 @@ Leetcode
 |120|中等|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[cpp](algorithm/problem/120_minimumTotal.md)|[动态规划](algorithm/tag/dp.md)|
 |136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](algorithm/problem/136_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/array.md)|
+|141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[cpp](algorithm/problem/141_hasCycle.md)|[链表](algorithm/tag/link_list.md)|
 |144|中等|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[cpp](algorithm/problem/144_preorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |145|困难|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[cpp](algorithm/problem/145_postorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |146|中等|[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)|[cpp](algorithm/problem/146_LRUCache.md)|[哈希表](algorithm/tag/hash_table.md)|
@@ -30,6 +31,7 @@ Leetcode
 |235|简单|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[cpp](algorithm/problem/235_lowestCommonAncestor.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |322|中等|[零钱兑换](https://leetcode-cn.com/problems/coin-change/)|[cpp](algorithm/problem/322_coinChange.md)|[动态规划](algorithm/tag/dp.md)|
+|328|中等|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|[cpp](algorithm/problem/328_oddEvenList.md)|[链表](algorithm/tag/link_list.md)|
 |392|简单|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|[cpp](algorithm/problem/392_isSubsequence.md)|[字符串](algorithm/tag/string.md)|
 |509|简单|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[cpp](algorithm/problem/509_fib.md)|[动态规划](algorithm/tag/dp.md)|
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](algorithm/problem/589_preorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
