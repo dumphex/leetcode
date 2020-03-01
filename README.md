@@ -32,6 +32,7 @@ Leetcode
 |260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |322|中等|[零钱兑换](https://leetcode-cn.com/problems/coin-change/)|[cpp](algorithm/problem/322_coinChange.md)|[动态规划](algorithm/tag/dp.md)|
 |328|中等|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|[cpp](algorithm/problem/328_oddEvenList.md)|[链表](algorithm/tag/link_list.md)|
+|347|中等|[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|[cpp](algorithm/problem/347_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |392|简单|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|[cpp](algorithm/problem/392_isSubsequence.md)|[字符串](algorithm/tag/string.md)|
 |509|简单|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[cpp](algorithm/problem/509_fib.md)|[动态规划](algorithm/tag/dp.md)|
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](algorithm/problem/589_preorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
