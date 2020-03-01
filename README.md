@@ -37,6 +37,7 @@ Leetcode
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](algorithm/problem/589_preorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |590|简单|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[cpp](algorithm/problem/590_postorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |654|中等|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)|[cpp](algorithm/problem/654_constructMaximumBinaryTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|692|中等|[前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)|[cpp](algorithm/problem/692_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |697|简单|[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)|[cpp](algorithm/problem/697_findShortestSubArray.md)|[哈希表](algorithm/tag/hash_table.md)|
 |703|简单|[数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|[cpp](algorithm/problem/703_KthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |876|简单|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[cpp](algorithm/problem/876_middleNode.md)|[链表](algorithm/tag/link_list.md)|
