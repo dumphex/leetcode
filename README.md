@@ -28,6 +28,7 @@ Leetcode
 |151|中等|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|[cpp](algorithm/problem/151_reverseWords.md)|[字符串](algorithm/tag/string.md)|
 |187|中等|[重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)|[cpp](algorithm/problem/187_findRepeatedDnaSequences.md)|[字符串](algorithm/tag/string.md)|
 |215|中等|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|[cpp](algorithm/problem/215_findKthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
+|217|简单|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[cpp](algorithm/problem/217_containsDuplicate.md)|[数组](algorithm/tag/array.md)|
 |226|简单|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|[cpp](algorithm/problem/226_invertTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |230|中等|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|[cpp](algorithm/problem/230_kthSmallest.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |235|简单|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[cpp](algorithm/problem/235_lowestCommonAncestor.md)|[二叉树](algorithm/tag/binary_tree.md)|
