@@ -9,6 +9,7 @@
 |111|简单|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|[cpp](../problem/111_minDepth.md)|
 |112|简单|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[cpp](../problem/112_hasPathSum.md)|
 |113|中等|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)|[cpp](../problem/113_pathSum.md)|
+|124|困难|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|[cpp](../problem/124_maxPathSum.md)|
 |144|中等|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[cpp](../problem/144_preorderTraversal.md)|
 |145|困难|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[cpp](../problem/145_postorderTraversal.md)|
 |226|简单|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|[cpp](../problem/226_invertTree.md)|

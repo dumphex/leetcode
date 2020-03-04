@@ -20,6 +20,7 @@ Leetcode
 |112|简单|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[cpp](algorithm/problem/112_hasPathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |113|中等|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)|[cpp](algorithm/problem/113_pathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |120|中等|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[cpp](algorithm/problem/120_minimumTotal.md)|[动态规划](algorithm/tag/dp.md)|
+|124|困难|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|[cpp](algorithm/problem/124_maxPathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](algorithm/problem/136_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[cpp](algorithm/problem/141_hasCycle.md)|[链表](algorithm/tag/link_list.md)|
