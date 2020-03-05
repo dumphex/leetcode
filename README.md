@@ -44,6 +44,7 @@ Leetcode
 |509|简单|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[cpp](algorithm/problem/509_fib.md)|[动态规划](algorithm/tag/dp.md)|
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](algorithm/problem/589_preorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |590|简单|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[cpp](algorithm/problem/590_postorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|645|简单|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[cpp](algorithm/problem/645_findErrorNums.md)|[数组](algorithm/tag/array.md)|
 |654|中等|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)|[cpp](algorithm/problem/654_constructMaximumBinaryTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |692|中等|[前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)|[cpp](algorithm/problem/692_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |697|简单|[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)|[cpp](algorithm/problem/697_findShortestSubArray.md)|[哈希表](algorithm/tag/hash_table.md)|
