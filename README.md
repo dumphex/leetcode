@@ -11,7 +11,6 @@ Leetcode
 |64|中等|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[cpp](algorithm/problem/64_minPathSum.md)|[动态规划](algorithm/tag/dp.md)|
 |70|简单|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[cpp](algorithm/problem/70_climbStairs.md)|[动态规划](algorithm/tag/dp.md)|
 |92|中等|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|[cpp](algorithm/problem/92_reverseBetween.md)|[链表](algorithm/tag/link_list.md)|
-|236|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[cpp](algorithm/problem/236_reverseList.md)|[链表](algorithm/tag/link_list.md)|
 |94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[cpp](algorithm/problem/94_inorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |102|中等|[二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[cpp](algorithm/problem/102_levelOrder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |107|简单|[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|[cpp](algorithm/problem/107_levelOrderBottom.md)|[二叉树](algorithm/tag/binary_tree.md)|
@@ -29,13 +28,13 @@ Leetcode
 |146|中等|[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)|[cpp](algorithm/problem/146_LRUCache.md)|[哈希表](algorithm/tag/hash_table.md)|
 |151|中等|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|[cpp](algorithm/problem/151_reverseWords.md)|[字符串](algorithm/tag/string.md)|
 |187|中等|[重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)|[cpp](algorithm/problem/187_findRepeatedDnaSequences.md)|[字符串](algorithm/tag/string.md)|
+|206|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[cpp](algorithm/problem/206_reverseList.md)|[链表](algorithm/tag/link_list.md)|
 |215|中等|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|[cpp](algorithm/problem/215_findKthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |217|简单|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[cpp](algorithm/problem/217_containsDuplicate.md)|[数组](algorithm/tag/array.md)|
 |219|简单|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[cpp](algorithm/problem/219_containsNearbyDuplicate.md)|[数组](algorithm/tag/array.md)|
 |226|简单|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|[cpp](algorithm/problem/226_invertTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |230|中等|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|[cpp](algorithm/problem/230_kthSmallest.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |235|简单|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[cpp](algorithm/problem/235_lowestCommonAncestor.md)|[二叉树](algorithm/tag/binary_tree.md)|
-|236|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[cpp](algorithm/problem/236_reverseList.md)|[链表](algorithm/tag/link_list.md)|
 |260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |322|中等|[零钱兑换](https://leetcode-cn.com/problems/coin-change/)|[cpp](algorithm/problem/322_coinChange.md)|[动态规划](algorithm/tag/dp.md)|
 |328|中等|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|[cpp](algorithm/problem/328_oddEvenList.md)|[链表](algorithm/tag/link_list.md)|
