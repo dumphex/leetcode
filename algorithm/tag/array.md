@@ -3,6 +3,7 @@
 |索引|难度|题目|解决方案|
 |----|----|----|--------|
 |57|简单|[面试题57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|[cpp](../problem/57_twoSum.md)|
+|57|简单|[面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|[cpp](../problem/57_findContinuousSequence.md)|
 |136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](../problem/136_singleNumber.md)|
 |137|中等|[只出现一次的数字II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](../problem/137_singleNumber.md)|
 |217|简单|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[cpp](../problem/217_containsDuplicate.md)|
