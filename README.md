@@ -6,6 +6,7 @@ Leetcode
 |---|----|----|--------|--------|
 |1|简单|[两数之和](https://leetcode-cn.com/problems/two-sum/)|[cpp](algorithm/problem/1_twoSum.md)|[哈希表](algorithm/tag/hash_table.md)|
 |24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](algorithm/problem/24_swapPairs.md)|[链表](algorithm/tag/link_list.md)|
+|41|困难|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|[cpp](algorithm/problem/41_firstMissingPositive.md)|[数组](algorithm/tag/array.md)|
 |49|中等|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)|[cpp](algorithm/problem/49_groupAnagrams.md)|[哈希表](algorithm/tag/hash_table.md)|
 |53|简单|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[cpp](algorithm/problem/53_maxSubArray.md)|[动态规划](algorithm/tag/dp.md)|
 |57|简单|[面试题57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|[cpp](algorithm/problem/57_twoSum.md)|[数组](algorithm/tag/array.md)|
