@@ -29,6 +29,7 @@
 
 # Solution
 
+## 数组
 ```cpp
 class Solution {
 public:
@@ -62,6 +63,64 @@ public:
         }
 
         return results;
+    }
+};
+```
+
+## 双端队列
+```cpp
+class Solution {
+public:
+    class maxQueue {
+     public:
+        void push(int v) {
+            while(!m_deque.empty() && m_deque.back() < v) {
+                m_deque.pop_back();
+            }
+
+            m_deque.push_back(v);
+        }
+
+        int top() {
+            return m_deque.front();
+        }
+
+        void pop() {
+            if (!m_deque.empty()) {
+                m_deque.pop_front();
+            }
+        }
+
+     private:
+        std::deque<int> m_deque;
+    };
+
+    vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+        vector<int> result;
+        if (nums.empty()) {
+            return result;
+        }
+
+        size_t size = nums.size() - k + 1;
+        result.reserve(size);
+
+        maxQueue mq;
+        for(int i = 0; i < k; i++) {
+            mq.push(nums[i]);
+        }
+
+        for(int i = 0; i < size; i++) {
+            result.push_back(mq.top());
+
+            if(nums[i] == mq.top()) {
+                mq.pop();
+            }
+            if (i != size - 1) {
+                mq.push(nums[i + k]);       
+            }
+        }
+
+        return result;
     }
 };
 ```

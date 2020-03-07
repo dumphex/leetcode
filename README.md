@@ -9,7 +9,8 @@ Leetcode
 |53|简单|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[cpp](algorithm/problem/53_maxSubArray.md)|[动态规划](algorithm/tag/dp.md)|
 |57|简单|[面试题57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|[cpp](algorithm/problem/57_twoSum.md)|[数组](algorithm/tag/array.md)|
 |57|简单|[面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|[cpp](algorithm/problem/57_findContinuousSequence.md)|[数组](algorithm/tag/array.md)|
-|59|简单|[面试题59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)|[cpp](algorithm/problem/59_maxSlidingWindow.md)|[数组](algorithm/tag/array.md)|
+|59|简单|[面试题59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)|[cpp](algorithm/problem/59_maxSlidingWindow.md)|[双端队列](algorithm/tag/deque.md)|
+|59|中等|[面试题59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|[cpp](algorithm/problem/59_MaxQueue.md)|[双端队列](algorithm/tag/deque.md)|
 |62|中等|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|[cpp](algorithm/problem/62_uniquePaths.md)|[动态规划](algorithm/tag/dp.md)|
 |64|中等|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[cpp](algorithm/problem/64_minPathSum.md)|[动态规划](algorithm/tag/dp.md)|
 |70|简单|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[cpp](algorithm/problem/70_climbStairs.md)|[动态规划](algorithm/tag/dp.md)|
