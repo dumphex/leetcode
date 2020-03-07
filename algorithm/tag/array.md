@@ -11,5 +11,6 @@
 |219|简单|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[cpp](../problem/219_containsNearbyDuplicate.md)|
 |239|困难|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|[cpp](../problem/239_maxSlidingWindow.md)|
 |260|中等|[只出现一次的数字III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](../problem/260_singleNumber.md)|
-|645|简单|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/|[cpp](../problem/645_findErrorNums.md)|
+|268|简单|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|[cpp](../problem/268_missingNumber.md)|
+|645|简单|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[cpp](../problem/645_findErrorNums.md)|
 
