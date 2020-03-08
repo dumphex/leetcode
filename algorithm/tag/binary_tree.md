@@ -4,7 +4,8 @@
 |----|----|----|--------|
 |94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[cpp](../problem/94_inorderTraversal.md)|
 |102|中等|[二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[cpp](../problem/102_levelOrder.md)|
-|104|中等|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[cpp](../problem/114_flatten.md)|
+|104|简单|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[cpp](../problem/104_maxDepth.md)|
+|114|中等|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[cpp](../problem/114_flatten.md)|
 |107|简单|[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|[cpp](../problem/107_levelOrderBottom.md)|
 |108|简单|[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|[cpp](../problem/108_sortedArrayToBST.md)|
 |111|简单|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|[cpp](../problem/111_minDepth.md)|
