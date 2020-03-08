@@ -28,6 +28,7 @@ Leetcode
 |113|中等|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)|[cpp](algorithm/problem/113_pathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |114|中等|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[cpp](algorithm/problem/114_flatten.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |120|中等|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[cpp](algorithm/problem/120_minimumTotal.md)|[动态规划](algorithm/tag/dp.md)|
+|121|简单|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[cpp](algorithm/problem/121_maxProfit.md)|[数组](algorithm/tag/array.md)|
 |124|困难|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|[cpp](algorithm/problem/124_maxPathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](algorithm/problem/136_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/array.md)|
