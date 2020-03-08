@@ -18,32 +18,73 @@
 
 # Solution
 
-## 递归
+## 直接递归(超时)
+
 ```cpp
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
-        if (amount <= 0) {
-            return amount; 
+        if (amount < 0) {
+            return -1;
         }
 
-        int result = -1;
+        if (amount == 0) {
+            return 0;
+        }
 
-        for(auto c : coins) {
+        int result = INT_MAX;
+        for(auto & c : coins) {
             int ret = coinChange(coins, amount - c);
             if (ret < 0) {
                 continue;
-            } 
-            
-            result = result == -1 ? ret + 1 : std::min(result, ret + 1);
-        
+            }
+
+            result = std::min(result, ret + 1);
         }
 
-        return result;
+        return result == INT_MAX ? -1 : result;
     }
 };
 ```
 
+
+## 递归优化
+
+```cpp
+class Solution {
+public:
+    int coinChange(vector<int>& coins, int amount) {
+        if (amount < 0) {
+            return -1;
+        }
+
+        if (amount == 0) {
+            return 0;
+        }
+
+        if (m_map.find(amount) != m_map.end()) {
+            return m_map[amount];
+        }
+
+        int result = INT_MAX;
+        for(auto & c : coins) {
+            int ret = coinChange(coins, amount - c);
+            if (ret < 0) {
+                continue;
+            }
+
+            result = std::min(result, ret + 1);
+        }
+
+        m_map[amount] = result == INT_MAX ? -1 : result;
+
+        return m_map[amount];
+    }
+
+private:
+    std::unordered_map<int, int> m_map;
+};
+```
 
 ## DP
 
