@@ -62,6 +62,7 @@ Leetcode
 |692|中等|[前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)|[cpp](algorithm/problem/692_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |697|简单|[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)|[cpp](algorithm/problem/697_findShortestSubArray.md)|[哈希表](algorithm/tag/hash_table.md)|
 |703|简单|[数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|[cpp](algorithm/problem/703_KthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
+|746|简单|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|[cpp](algorithm/problem/746_minCostClimbingStairs.md)|[动态规划](algorithm/tag/dp.md)|
 |876|简单|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[cpp](algorithm/problem/876_middleNode.md)|[链表](algorithm/tag/link_list.md)|
 |951|中等|[翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)|[cpp](algorithm/problem/951_flipEquiv.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |991|中等|[坏了的计算器](https://leetcode-cn.com/problems/broken-calculator/)|[cpp](algorithm/problem/991_brokenCalc.md)|[贪心算法](algorithm/tag/greedy.md)|

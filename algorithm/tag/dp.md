@@ -9,4 +9,5 @@
 |120|中等|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[cpp](../problem/120_minimumTotal.md)|
 |322|中等|[零钱兑换](https://leetcode-cn.com/problems/coin-change/)|[cpp](../problem/322_coinChange.md)|
 |509|简单|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[cpp](../problem/509_fib.md)|
+|746|简单|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|[cpp](../problem/746_minCostClimbingStairs.md)|
 
