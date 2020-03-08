@@ -5,12 +5,13 @@
 |94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[cpp](../problem/94_inorderTraversal.md)|
 |102|中等|[二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[cpp](../problem/102_levelOrder.md)|
 |104|简单|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[cpp](../problem/104_maxDepth.md)|
-|114|中等|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[cpp](../problem/114_flatten.md)|
 |107|简单|[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|[cpp](../problem/107_levelOrderBottom.md)|
 |108|简单|[将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)|[cpp](../problem/108_sortedArrayToBST.md)|
+|110|简单|[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/)|[cpp](../problem/110_isBalanced.md)|
 |111|简单|[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)|[cpp](../problem/111_minDepth.md)|
 |112|简单|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[cpp](../problem/112_hasPathSum.md)|
 |113|中等|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)|[cpp](../problem/113_pathSum.md)|
+|114|中等|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[cpp](../problem/114_flatten.md)|
 |124|困难|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|[cpp](../problem/124_maxPathSum.md)|
 |144|中等|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[cpp](../problem/144_preorderTraversal.md)|
 |145|困难|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[cpp](../problem/145_postorderTraversal.md)|
