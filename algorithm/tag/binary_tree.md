@@ -20,6 +20,7 @@
 |235|简单|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[cpp](../problem/235_lowestCommonAncestor.md)|
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](../problem/589_preorder.md)|
 |590|简单|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[cpp](../problem/590_postorder.md)|
+|617|简单|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|[cpp](../problem/617_mergeTrees.md)|
 |654|中等|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)|[cpp](../problem/654_constructMaximumBinaryTree.md)|
 |951|中等|[翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)|[cpp](../problem/951_flipEquiv.md)|
 
