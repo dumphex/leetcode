@@ -30,10 +30,9 @@ public:
             return head;
         }
 
-        ListNode *tmp = head->next->next;
         ListNode *new_head = head->next;
-        new_head ->next = head;
-        head->next = swapPairs(tmp);
+        head->next = swapPairs(head->next->next);
+        new_head->next = head;
 
         return new_head;
     }
