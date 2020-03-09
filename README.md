@@ -47,6 +47,7 @@ Leetcode
 |230|中等|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|[cpp](algorithm/problem/230_kthSmallest.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |234|简单|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[cpp](algorithm/problem/234_isPalindrome.md)|[链表](algorithm/tag/link_list.md)|
 |235|简单|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[cpp](algorithm/problem/235_lowestCommonAncestor.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|236|中等|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[cpp](algorithm/problem/236_lowestCommonAncestor.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |239|困难|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|[cpp](algorithm/problem/239_maxSlidingWindow.md)|[数组](algorithm/tag/array.md)|
 |260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |268|简单|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|[cpp](algorithm/problem/268_missingNumber.md)|[数组](algorithm/tag/array.md)|
