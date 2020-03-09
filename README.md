@@ -50,6 +50,7 @@ Leetcode
 |260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |268|简单|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|[cpp](algorithm/problem/268_missingNumber.md)|[数组](algorithm/tag/array.md)|
 |295|困难|[数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)|[cpp](algorithm/problem/295_MedianFinder.md)|[二叉堆](algorithm/tag/binary_heap.md)|
+|300|中等|[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[cpp](algorithm/problem/300_lengthOfLIS.md)|[动态规划](algorithm/tag/dp.md)|
 |322|中等|[零钱兑换](https://leetcode-cn.com/problems/coin-change/)|[cpp](algorithm/problem/322_coinChange.md)|[动态规划](algorithm/tag/dp.md)|
 |328|中等|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|[cpp](algorithm/problem/328_oddEvenList.md)|[链表](algorithm/tag/link_list.md)|
 |347|中等|[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|[cpp](algorithm/problem/347_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
