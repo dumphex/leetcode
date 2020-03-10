@@ -19,6 +19,7 @@
 |230|中等|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|[cpp](../problem/230_kthSmallest.md)|
 |235|简单|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[cpp](../problem/235_lowestCommonAncestor.md)|
 |236|中等|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[cpp](../problem/236_lowestCommonAncestor.md)|
+|543|简单|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|[cpp](../problem/543_diameterOfBinaryTree.md)|
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](../problem/589_preorder.md)|
 |590|简单|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[cpp](../problem/590_postorder.md)|
 |617|简单|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|[cpp](../problem/617_mergeTrees.md)|
