@@ -74,4 +74,5 @@ Leetcode
 |951|中等|[翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)|[cpp](algorithm/problem/951_flipEquiv.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |991|中等|[坏了的计算器](https://leetcode-cn.com/problems/broken-calculator/)|[cpp](algorithm/problem/991_brokenCalc.md)|[贪心算法](algorithm/tag/greedy.md)|
 |1013|简单|[将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)|[cpp](algorithm/problem/1013_canThreePartsEqualSum.md)|[数组](algorithm/tag/array.md)|
+|1071|简单|[字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)|[cpp](algorithm/problem/1071_gcdOfStrings.md)|[字符串](algorithm/tag/string.md)|
 
