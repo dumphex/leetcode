@@ -18,6 +18,8 @@
 
 
 # Solution
+## solution1: 堆
+- O(Nlogk)
 
 ```cpp
 class Solution {
@@ -39,3 +41,67 @@ public:
 };
 
 ```
+
+## solution2: 快速排序
+- O(NlogN)
+
+```cpp
+class Solution {
+public:
+    int findKthLargest(vector<int>& nums, int k) {
+        std::sort(nums.begin(), nums.end(), std::greater<int>());
+        return nums[k - 1];
+    }
+};
+```
+
+
+## solution3: 快速选择
+- O(N)
+
+```cpp
+class Solution {
+public:
+    int findKthLargest(vector<int>& nums, int k) {
+        int size = nums.size();
+        int idx = quickSelect(nums, 0, size - 1, size - k);
+        return nums[idx];
+    }
+
+private:
+    int quickSelect(vector<int> & nums, int lo, int hi, int k) {
+        if (lo >= hi) {
+            return lo;
+        }
+
+        int idx = partition(nums, lo, hi);
+        if (idx == k) {
+            return idx;
+        }
+
+        return idx > k ? quickSelect(nums, lo, idx - 1, k) : quickSelect(nums, idx + 1, hi, k);
+    }
+
+    int partition(vector<int> & nums, int lo, int hi) {
+        int i = lo;
+        int j = hi + 1;
+        int pivot = nums[lo];
+
+        while(true) {
+            while(++i < hi && nums[i] < pivot);
+            while(--j > lo && nums[j] > pivot);
+
+            if (i >= j){
+                break;
+            }
+
+            std::swap(nums[i], nums[j]);
+        }
+
+        std::swap(nums[lo], nums[j]);
+
+        return j;
+    }
+};
+```
+
