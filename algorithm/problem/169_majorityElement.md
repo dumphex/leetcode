@@ -64,35 +64,31 @@ public:
     }
 
 private:
-    int quick_sort(vector<int> & nums, int l, int r, int target) {
-        int idx = partition(nums, l, r);
+    int quick_sort(vector<int> & nums, int lo, int hi, int target) {
+        int idx = partition(nums, lo, hi);
         if (target == idx) {
             return idx;
-        } else if (target < idx) {
-            return quick_sort(nums, l, idx - 1, target);
-        } else {
-            return quick_sort(nums, idx + 1, r, target);
-        }
+        } 
+        
+        return target < idx ? quick_sort(nums, lo, idx - 1, target) : quick_sort(nums, idx + 1, hi, target);
     }
 
-    int partition(vector<int> & nums, int l, int r) {
-        int pivot = nums[l];
-        int i = l, j = r + 1;
-
+    int partition(vector<int> & nums, int lo, int hi) {
+        int i = lo;
+        int j = hi + 1;
+        int pivot = nums[lo];
+    
         while(true) {
-            while(++i < r && nums[i] < pivot);
-            while(--j > l && nums[j] > pivot);
-
+            while(++i < hi && nums[i] < pivot);
+            while(--j > lo && nums[j] > pivot);
             if (i >= j) {
                 break;
             }
-            
             std::swap(nums[i], nums[j]);
         }
-	    std::swap(nums[l], nums[j]);
 
+        std::swap(nums[lo], nums[j]);
         return j;
     }
-
 };
 ```
