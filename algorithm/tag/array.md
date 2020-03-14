@@ -9,6 +9,7 @@
 |121|简单|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[cpp](../problem/121_maxProfit.md)|
 |136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](../problem/136_singleNumber.md)|
 |137|中等|[只出现一次的数字II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](../problem/137_singleNumber.md)|
+|169|简单|[多数元素](https://leetcode-cn.com/problems/majority-element/)|[cpp](../problem/169_majorityElement.md)|
 |217|简单|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[cpp](../problem/217_containsDuplicate.md)|
 |219|简单|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[cpp](../problem/219_containsNearbyDuplicate.md)|
 |239|困难|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|[cpp](../problem/239_maxSlidingWindow.md)|
