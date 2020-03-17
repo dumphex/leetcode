@@ -62,6 +62,7 @@ Leetcode
 |338|中等|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[cpp](algorithm/problem/338_countBits.md)|[动态规划](algorithm/tag/dp.md)|
 |347|中等|[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|[cpp](algorithm/problem/347_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |392|简单|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|[cpp](algorithm/problem/392_isSubsequence.md)|[字符串](algorithm/tag/string.md)|
+|429|中等|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|[cpp](algorithm/problem/429_levelOrder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |509|简单|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[cpp](algorithm/problem/509_fib.md)|[动态规划](algorithm/tag/dp.md)|
 |543|简单|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|[cpp](algorithm/problem/543_diameterOfBinaryTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |561|简单|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)|[cpp](algorithm/problem/561_arrayPairSum.md)|[数组](algorithm/tag/array.md)|
