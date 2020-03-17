@@ -21,6 +21,59 @@ minStack.getMin();   --> 返回 -2
 
 # Solution
 
+## 方案1: vector + dp
+```cpp
+class MinStack {
+public:
+    struct Object {
+        int data;
+        int min;
+
+        Object(int d, int m) : data(d), min(m) {}
+    };
+
+    /** initialize your data structure here. */
+    MinStack() {
+        m_vector.reserve(32);
+    }
+
+    void push(int x) {
+        int min = x;
+        if (!m_vector.empty()) {
+            int last = m_vector.back().min;
+            min = min < last ? min : last;
+        }
+
+        m_vector.emplace_back(x, min);
+    }
+
+    void pop() {
+        m_vector.pop_back();
+    }
+
+    int top() {
+        return m_vector.back().data;
+    }
+
+    int getMin() {
+        return m_vector.back().min;
+    }
+
+private:
+    std::vector<Object> m_vector;
+};
+
+/**
+ * Your MinStack object will be instantiated and called as such:
+ * MinStack* obj = new MinStack();
+ * obj->push(x);
+ * obj->pop();
+ * int param_3 = obj->top();
+ * int param_4 = obj->getMin();
+ */
+```
+
+## 方案2: 辅助栈
 ```cpp
 class MinStack {
 public:
