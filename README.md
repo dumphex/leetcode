@@ -65,6 +65,7 @@ Leetcode
 |328|中等|[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)|[cpp](algorithm/problem/328_oddEvenList.md)|[链表](algorithm/tag/link_list.md)|
 |338|中等|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[cpp](algorithm/problem/338_countBits.md)|[动态规划](algorithm/tag/dp.md)|
 |347|中等|[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|[cpp](algorithm/problem/347_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
+|365|中等|[水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/)|[cpp](algorithm/problem/365_canMeasureWater.md)|[数学](algorithm/tag/math.md)|
 |392|简单|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|[cpp](algorithm/problem/392_isSubsequence.md)|[字符串](algorithm/tag/string.md)|
 |409|简单|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|[cpp](algorithm/problem/409_longestPalindrome.md)|[字符串](algorithm/tag/string.md)|
 |429|中等|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|[cpp](algorithm/problem/429_levelOrder.md)|[二叉树](algorithm/tag/binary_tree.md)|
