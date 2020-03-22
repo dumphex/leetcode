@@ -80,6 +80,7 @@ Leetcode
 |692|中等|[前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)|[cpp](algorithm/problem/692_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |697|简单|[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)|[cpp](algorithm/problem/697_findShortestSubArray.md)|[哈希表](algorithm/tag/hash_table.md)|
 |703|简单|[数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|[cpp](algorithm/problem/703_KthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
+|704|简单|[二分查找](https://leetcode-cn.com/problems/binary-search/)|[cpp](algorithm/problem/704_search.md)|[二分查找](algorithm/tag/binary_search.md)|
 |746|简单|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|[cpp](algorithm/problem/746_minCostClimbingStairs.md)|[动态规划](algorithm/tag/dp.md)|
 |876|简单|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[cpp](algorithm/problem/876_middleNode.md)|[链表](algorithm/tag/link_list.md)|
 |912|中等|[排序数组](https://leetcode-cn.com/problems/sort-an-array/)|[cpp](algorithm/problem/912_sortArray.md)|[排序](algorithm/tag/sort.md)|
