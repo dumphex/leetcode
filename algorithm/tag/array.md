@@ -15,6 +15,7 @@
 |239|困难|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|[cpp](../problem/239_maxSlidingWindow.md)|
 |260|中等|[只出现一次的数字III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](../problem/260_singleNumber.md)|
 |268|简单|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|[cpp](../problem/268_missingNumber.md)|
+|287|中等|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)|[cpp](../problem/287_findDuplicate.md)|
 |561|简单|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)|[cpp](../problem/561_arrayPairSum.md)|
 |645|简单|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[cpp](../problem/645_findErrorNums.md)|
 |945|中等|[使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)|[cpp](../problem/945_minIncrementForUnique.md)|
