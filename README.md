@@ -9,6 +9,7 @@ Leetcode
 |9|简单|[回文数](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|[cpp](algorithm/problem/9_isPalindrome.md)|[字符串](algorithm/tag/string.md)|
 |11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[cpp](algorithm/problem/11_maxArea.md)|[数组](algorithm/tag/array.md)|
 |24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](algorithm/problem/24_swapPairs.md)|[链表](algorithm/tag/link_list.md)|
+|33|中等|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[cpp](algorithm/problem/33_search.md)|[二分查找](algorithm/tag/binary_search.md)|
 |40|简单|[面试题40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|[cpp](algorithm/problem/40_getLeastNumbers.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |215|中等|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|[cpp](algorithm/problem/215_findKthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |41|困难|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|[cpp](algorithm/problem/41_firstMissingPositive.md)|[数组](algorithm/tag/array.md)|
