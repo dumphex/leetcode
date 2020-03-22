@@ -39,6 +39,7 @@ Leetcode
 |136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](algorithm/problem/136_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[cpp](algorithm/problem/141_hasCycle.md)|[链表](algorithm/tag/link_list.md)|
+|142|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[cpp](algorithm/problem/142_detectCycle.md)|[链表](algorithm/tag/link_list.md)|
 |144|中等|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[cpp](algorithm/problem/144_preorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |145|困难|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[cpp](algorithm/problem/145_postorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |146|中等|[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)|[cpp](algorithm/problem/146_LRUCache.md)|[哈希表](algorithm/tag/hash_table.md)|
