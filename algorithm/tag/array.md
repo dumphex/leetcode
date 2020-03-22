@@ -17,4 +17,5 @@
 |268|简单|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|[cpp](../problem/268_missingNumber.md)|
 |561|简单|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)|[cpp](../problem/561_arrayPairSum.md)|
 |645|简单|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[cpp](../problem/645_findErrorNums.md)|
+|945|中等|[使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)|[cpp](../problem/945_minIncrementForUnique.md)|
 |1013|简单|[将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)|[cpp](../problem/1013_canThreePartsEqualSum.md)|
