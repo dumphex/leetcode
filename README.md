@@ -21,6 +21,7 @@ Leetcode
 |59|中等|[面试题59 - II. 队列的最大值](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/)|[cpp](algorithm/problem/59_MaxQueue.md)|[双端队列](algorithm/tag/deque.md)|
 |62|中等|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|[cpp](algorithm/problem/62_uniquePaths.md)|[动态规划](algorithm/tag/dp.md)|
 |64|中等|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[cpp](algorithm/problem/64_minPathSum.md)|[动态规划](algorithm/tag/dp.md)|
+|69|简单|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[cpp](algorithm/problem/69_mySqrt.md)|[二分查找](algorithm/tag/binary_search.md)|
 |70|简单|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[cpp](algorithm/problem/70_climbStairs.md)|[动态规划](algorithm/tag/dp.md)|
 |92|中等|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|[cpp](algorithm/problem/92_reverseBetween.md)|[链表](algorithm/tag/link_list.md)|
 |94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[cpp](algorithm/problem/94_inorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
