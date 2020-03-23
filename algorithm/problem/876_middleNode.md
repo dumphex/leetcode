@@ -40,25 +40,15 @@ ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, 以及 ans.next.next.next 
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        if (head == nullptr) {
-            return head;
-        }
+        ListNode *slow = head;
+        ListNode *fast = head;
 
-        ListNode dummy(0);
-        dummy.next = head;
-
-        ListNode *slow = &dummy, *fast = &dummy;
-
-        while(fast && fast->next) {
+        while(fast != nullptr && fast->next != nullptr) {
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        if (fast == nullptr) {
-            return slow;
-        } else {
-            return slow->next;
-        }
+        return slow;
     }
 };
 ```
