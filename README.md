@@ -11,9 +11,9 @@ Leetcode
 |24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](algorithm/problem/24_swapPairs.md)|[链表](algorithm/tag/link_list.md)|
 |33|中等|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[cpp](algorithm/problem/33_search.md)|[二分查找](algorithm/tag/binary_search.md)|
 |40|简单|[面试题40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|[cpp](algorithm/problem/40_getLeastNumbers.md)|[二叉堆](algorithm/tag/binary_heap.md)|
-|215|中等|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|[cpp](algorithm/problem/215_findKthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |41|困难|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|[cpp](algorithm/problem/41_firstMissingPositive.md)|[数组](algorithm/tag/array.md)|
 |49|中等|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)|[cpp](algorithm/problem/49_groupAnagrams.md)|[哈希表](algorithm/tag/hash_table.md)|
+|50|中等|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|[cpp](algorithm/problem/50_myPow.md)|[二分查找](algorithm/tag/binary_search.md)|
 |53|简单|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[cpp](algorithm/problem/53_maxSubArray.md)|[动态规划](algorithm/tag/dp.md)|
 |57|简单|[面试题57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|[cpp](algorithm/problem/57_twoSum.md)|[数组](algorithm/tag/array.md)|
 |57|简单|[面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|[cpp](algorithm/problem/57_findContinuousSequence.md)|[数组](algorithm/tag/array.md)|
