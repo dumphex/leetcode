@@ -12,4 +12,5 @@
 |338|中等|[比特位计数](https://leetcode-cn.com/problems/counting-bits/)|[cpp](../problem/338_countBits.md)|
 |509|简单|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[cpp](../problem/509_fib.md)|
 |746|简单|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|[cpp](../problem/746_minCostClimbingStairs.md)|
+|1716|简单|[面试题 17.16. 按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)|[cpp](../problem/1716_massage.md)|
 
