@@ -89,6 +89,7 @@ Leetcode
 |876|简单|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[cpp](algorithm/problem/876_middleNode.md)|[链表](algorithm/tag/link_list.md)|
 |892|简单|[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)|[cpp](algorithm/problem/892_surfaceArea.md)|[数组](algorithm/tag/array.md)|
 |912|中等|[排序数组](https://leetcode-cn.com/problems/sort-an-array/)|[cpp](algorithm/problem/912_sortArray.md)|[排序](algorithm/tag/sort.md)|
+|914|简单|[卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[cpp](algorithm/problem/914_hasGroupsSizeX.md)|[数学](algorithm/tag/math.md)|
 |945|中等|[使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)|[cpp](algorithm/problem/945_minIncrementForUnique.md)|[数组](algorithm/tag/array.md)|
 |951|中等|[翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)|[cpp](algorithm/problem/951_flipEquiv.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |991|中等|[坏了的计算器](https://leetcode-cn.com/problems/broken-calculator/)|[cpp](algorithm/problem/991_brokenCalc.md)|[贪心算法](algorithm/tag/greedy.md)|
