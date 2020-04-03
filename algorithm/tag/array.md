@@ -16,6 +16,7 @@
 |260|中等|[只出现一次的数字III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](../problem/260_singleNumber.md)|
 |268|简单|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|[cpp](../problem/268_missingNumber.md)|
 |287|中等|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)|[cpp](../problem/287_findDuplicate.md)|
+|448|简单|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[cpp](../problem/448_findDisappearedNumbers.md)|
 |561|简单|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)|[cpp](../problem/561_arrayPairSum.md)|
 |645|简单|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[cpp](../problem/645_findErrorNums.md)|
 |892|简单|[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)|[cpp](../problem/892_surfaceArea.md)|
