@@ -15,6 +15,7 @@
 
 # Solution
 
+## Solution1
 ```cpp
 class Solution {
 public:
@@ -29,6 +30,29 @@ public:
             max = std::max(max, dp[i]);
         }
 
+        return max;
+    }
+};
+```
+
+## Solution2(降低空间复杂度)
+```cpp
+class Solution {
+public:
+    int maxSubArray(vector<int>& nums) {
+        int max = 0;
+        int size = nums.size();
+        if (size == 0) {
+            return max;
+        }
+
+        int last = nums[0];
+        max = nums[0];
+        for(int i = 1; i < size; i++) {
+            last = std::max(last + nums[i], nums[i]);
+            max = last > max ? last : max;
+        }
+        
         return max;
     }
 };
