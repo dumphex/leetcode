@@ -58,6 +58,7 @@ Leetcode
 |219|简单|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[cpp](algorithm/problem/219_containsNearbyDuplicate.md)|[数组](algorithm/tag/array.md)|
 |226|简单|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|[cpp](algorithm/problem/226_invertTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |230|中等|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|[cpp](algorithm/problem/230_kthSmallest.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|232|简单|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[cpp](algorithm/problem/232_MyQueue.md)|[栈](algorithm/tag/stack.md)|
 |234|简单|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[cpp](algorithm/problem/234_isPalindrome.md)|[链表](algorithm/tag/link_list.md)|
 |235|简单|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[cpp](algorithm/problem/235_lowestCommonAncestor.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |236|中等|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[cpp](algorithm/problem/236_lowestCommonAncestor.md)|[二叉树](algorithm/tag/binary_tree.md)|
