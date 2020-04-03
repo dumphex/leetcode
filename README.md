@@ -50,6 +50,7 @@ Leetcode
 |160|简单|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[cpp](algorithm/problem/160_getIntersectionNode.md)|[链表](algorithm/tag/link_list.md)|
 |169|简单|[多数元素](https://leetcode-cn.com/problems/majority-element/)|[cpp](algorithm/problem/169_majorityElement.md)|[数组](algorithm/tag/array.md)|
 |187|中等|[重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)|[cpp](algorithm/problem/187_findRepeatedDnaSequences.md)|[字符串](algorithm/tag/string.md)|
+|198|简单|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|[cpp](algorithm/problem/198_rob.md)|[动态规划](algorithm/tag/dp.md)|
 |206|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[cpp](algorithm/problem/206_reverseList.md)|[链表](algorithm/tag/link_list.md)|
 |215|中等|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|[cpp](algorithm/problem/215_findKthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |217|简单|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[cpp](algorithm/problem/217_containsDuplicate.md)|[数组](algorithm/tag/array.md)|
