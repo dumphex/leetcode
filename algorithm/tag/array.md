@@ -20,6 +20,7 @@
 |448|简单|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[cpp](../problem/448_findDisappearedNumbers.md)|
 |561|简单|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)|[cpp](../problem/561_arrayPairSum.md)|
 |645|简单|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[cpp](../problem/645_findErrorNums.md)|
+|860|简单|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)|[cpp](../problem/860_lemonadeChange.md)|
 |892|简单|[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)|[cpp](../problem/892_surfaceArea.md)|
 |945|中等|[使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)|[cpp](../problem/945_minIncrementForUnique.md)|
 |989|简单|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[cpp](../problem/989_addToArrayForm.md)|

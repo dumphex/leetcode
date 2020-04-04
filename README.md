@@ -95,6 +95,7 @@ Leetcode
 |704|简单|[二分查找](https://leetcode-cn.com/problems/binary-search/)|[cpp](algorithm/problem/704_search.md)|[二分查找](algorithm/tag/binary_search.md)|
 |739|中等|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|[cpp](algorithm/problem/739_dailyTemperatures.md)|[栈](algorithm/tag/stack.md)|
 |746|简单|[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)|[cpp](algorithm/problem/746_minCostClimbingStairs.md)|[动态规划](algorithm/tag/dp.md)|
+|860|简单|[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)|[cpp](algorithm/problem/860_lemonadeChange.md)|[数组](algorithm/tag/array.md)|
 |876|简单|[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list/)|[cpp](algorithm/problem/876_middleNode.md)|[链表](algorithm/tag/link_list.md)|
 |892|简单|[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)|[cpp](algorithm/problem/892_surfaceArea.md)|[数组](algorithm/tag/array.md)|
 |912|中等|[排序数组](https://leetcode-cn.com/problems/sort-an-array/)|[cpp](algorithm/problem/912_sortArray.md)|[排序](algorithm/tag/sort.md)|
