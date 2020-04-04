@@ -98,6 +98,7 @@ Leetcode
 |914|简单|[卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[cpp](algorithm/problem/914_hasGroupsSizeX.md)|[数学](algorithm/tag/math.md)|
 |945|中等|[使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)|[cpp](algorithm/problem/945_minIncrementForUnique.md)|[数组](algorithm/tag/array.md)|
 |951|中等|[翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)|[cpp](algorithm/problem/951_flipEquiv.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|989|简单|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[cpp](algorithm/problem/989_addToArrayForm.md)|[数组](algorithm/tag/array.md)|
 |991|中等|[坏了的计算器](https://leetcode-cn.com/problems/broken-calculator/)|[cpp](algorithm/problem/991_brokenCalc.md)|[贪心算法](algorithm/tag/greedy.md)|
 |1013|简单|[将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)|[cpp](algorithm/problem/1013_canThreePartsEqualSum.md)|[数组](algorithm/tag/array.md)|
 |1071|简单|[字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)|[cpp](algorithm/problem/1071_gcdOfStrings.md)|[字符串](algorithm/tag/string.md)|

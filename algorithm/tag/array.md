@@ -21,4 +21,5 @@
 |645|简单|[错误的集合](https://leetcode-cn.com/problems/set-mismatch/)|[cpp](../problem/645_findErrorNums.md)|
 |892|简单|[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/)|[cpp](../problem/892_surfaceArea.md)|
 |945|中等|[使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)|[cpp](../problem/945_minIncrementForUnique.md)|
+|989|简单|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[cpp](../problem/989_addToArrayForm.md)|
 |1013|简单|[将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)|[cpp](../problem/1013_canThreePartsEqualSum.md)|
