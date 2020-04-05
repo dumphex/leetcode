@@ -28,6 +28,7 @@ Leetcode
 |92|中等|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|[cpp](algorithm/problem/92_reverseBetween.md)|[链表](algorithm/tag/link_list.md)|
 |94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[cpp](algorithm/problem/94_inorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |98|中等|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[cpp](algorithm/problem/98_isValidBST.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|100|简单|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[cpp](algorithm/problem/100_isSameTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |102|中等|[二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[cpp](algorithm/problem/102_levelOrder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |104|简单|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[cpp](algorithm/problem/104_maxDepth.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |107|简单|[二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|[cpp](algorithm/problem/107_levelOrderBottom.md)|[二叉树](algorithm/tag/binary_tree.md)|
