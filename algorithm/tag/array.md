@@ -3,6 +3,7 @@
 |索引|难度|题目|解决方案|
 |----|----|----|--------|
 |11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[cpp](../problem/11_maxArea.md)|
+|15|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)|[cpp](../problem/15_threeSum.md)|
 |41|困难|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|[cpp](../problem/41_firstMissingPositive.md)|
 |57|简单|[面试题57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|[cpp](../problem/57_twoSum.md)|
 |57|简单|[面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|[cpp](../problem/57_findContinuousSequence.md)|
