@@ -106,6 +106,7 @@ Leetcode
 |945|中等|[使数组唯一的最小增量](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/)|[cpp](algorithm/problem/945_minIncrementForUnique.md)|[数组](algorithm/tag/array.md)|
 |946|中等|[验证栈序列](https://leetcode-cn.com/problems/validate-stack-sequences/)|[cpp](algorithm/problem/946_validateStackSequences.md)|[栈](algorithm/tag/stack.md)|
 |951|中等|[翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)|[cpp](algorithm/problem/951_flipEquiv.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|958|中等|[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/)|[cpp](algorithm/problem/958_isCompleteTree.md)|[数组](algorithm/tag/binary_tree.md)|
 |989|简单|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[cpp](algorithm/problem/989_addToArrayForm.md)|[数组](algorithm/tag/array.md)|
 |991|中等|[坏了的计算器](https://leetcode-cn.com/problems/broken-calculator/)|[cpp](algorithm/problem/991_brokenCalc.md)|[贪心算法](algorithm/tag/greedy.md)|
 |1013|简单|[将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)|[cpp](algorithm/problem/1013_canThreePartsEqualSum.md)|[数组](algorithm/tag/array.md)|
