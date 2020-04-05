@@ -15,7 +15,6 @@
 ```
 
 # Solution
-
 ```cpp
 /**
  * Definition for singly-linked list.
@@ -29,43 +28,23 @@ class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
         ListNode dummy(-1);
-        ListNode *pnew = &dummy;
+        ListNode *p = &dummy;
+        int carry = 0;
 
-        ListNode *p = l1;
-        ListNode *q = l2;
-
-        bool carry = false;
-        while(p || q) {
-            int a = 0;
-            int b = 0;
-
-            if (p) {
-                a = p->val;
-                p = p->next;
+        while(l1 || l2 || carry) {
+            if (l1) {
+                carry += l1->val;
+                l1 = l1->next;
             }
 
-            if (q) {
-                b = q->val;
-                q = q->next;
+            if (l2) {
+                carry += l2->val;
+                l2 = l2->next;
             }
 
-            int sum = a + b + (carry ? 1 : 0);
-            if (sum >= 10) {
-                sum = sum % 10;
-                carry = true;
-            } else {
-                carry = false;
-            }
-
-            ListNode * tmp = new ListNode(sum);
-            pnew->next = tmp;
-            pnew = pnew->next;
-        }
-
-        if (carry) {
-            ListNode *tmp = new ListNode(1);
-            pnew->next = tmp;
-            carry = false;
+            p->next = new ListNode(carry % 10);
+            p = p->next;
+            carry /= 10;
         }
 
         return dummy.next;
