@@ -19,6 +19,12 @@
 
 # Solution
 
+|a|b|备注|
+|-|-|----|
+|n|0|表示数字n出现1次|
+|0|n|表示数字n出现2次|
+|0|0|表示数字n出现3次|
+
 ```cpp
 class Solution {
 public:
