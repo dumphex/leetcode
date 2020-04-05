@@ -24,6 +24,7 @@
 |236|中等|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[cpp](../problem/236_lowestCommonAncestor.md)|
 |429|中等|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|[cpp](../problem/429_levelOrder.md)|
 |543|简单|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|[cpp](../problem/543_diameterOfBinaryTree.md)|
+|572|简单|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[cpp](../problem/572_isSubtree.md)|
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](../problem/589_preorder.md)|
 |590|简单|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[cpp](../problem/590_postorder.md)|
 |617|简单|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|[cpp](../problem/617_mergeTrees.md)|
