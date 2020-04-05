@@ -58,6 +58,7 @@ Leetcode
 |215|中等|[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)|[cpp](algorithm/problem/215_findKthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |217|简单|[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)|[cpp](algorithm/problem/217_containsDuplicate.md)|[数组](algorithm/tag/array.md)|
 |219|简单|[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[cpp](algorithm/problem/219_containsNearbyDuplicate.md)|[数组](algorithm/tag/array.md)|
+|225|简单|[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/)|[cpp](algorithm/problem/225_MyStack.md)|[数组](algorithm/tag/queue.md)|
 |226|简单|[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/)|[cpp](algorithm/problem/226_invertTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |230|中等|[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/)|[cpp](algorithm/problem/230_kthSmallest.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |232|简单|[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)|[cpp](algorithm/problem/232_MyQueue.md)|[栈](algorithm/tag/stack.md)|
