@@ -64,15 +64,10 @@ private:
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
+        TreeNode * cur = root;
+        stack<TreeNode *> stack;
         vector<int> result;
-
-        if (root == nullptr) {
-            return result;
-        }
-
         result.reserve(16);
-        stack<TreeNode*> stack;
-        TreeNode *cur = root;
 
         while(cur || !stack.empty()) {
             while(cur) {

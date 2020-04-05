@@ -30,6 +30,7 @@
 
 # Solution
 
+## Solution1:  递归
 ```cpp
 /**
  * Definition for a binary tree node.
@@ -65,6 +66,46 @@ public:
             return false;
         }
      
+        return true;
+    }
+};
+```
+
+## 非递归
+```cpp
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    bool isValidBST(TreeNode* root) {
+        TreeNode *cur = root;
+        TreeNode *last = nullptr;
+        stack<TreeNode *> stack;
+
+        while(cur || !stack.empty()) {
+            while(cur) {
+                stack.push(cur);
+                cur = cur->left;
+            }
+
+            cur = stack.top();
+            stack.pop();
+
+            if (last && last->val >= cur->val) {
+                return false;
+            }
+
+            last = cur;
+            cur = cur->right;
+        }
+
         return true;
     }
 };

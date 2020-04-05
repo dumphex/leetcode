@@ -3,7 +3,7 @@
 |索引|难度|题目|解决方案|
 |----|----|----|--------|
 |94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[cpp](../problem/94_inorderTraversal.md)|
-|98|中等|[(验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[cpp](../problem/98_isValidBST.md)|
+|98|中等|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[cpp](../problem/98_isValidBST.md)|
 |100|简单|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[cpp](../problem/100_isSameTree.md)|
 |102|中等|[二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)|[cpp](../problem/102_levelOrder.md)|
 |104|简单|[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)|[cpp](../problem/104_maxDepth.md)|
