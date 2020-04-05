@@ -33,6 +33,7 @@
 
 # Solution
 
+## Solution1: 递归
 ```cpp
 /**
  * Definition for a binary tree node.
@@ -59,6 +60,41 @@ public:
         inorderTraversal(root->left, result);
         result.push_back(root->val);
         inorderTraversal(root->right, result);
+    }
+};
+```
+
+## Solution2: 非递归
+```cpp
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    int kthSmallest(TreeNode* root, int k) {
+        stack<TreeNode *> stack;
+
+        while(root || !stack.empty()) {
+            while(root) {
+                stack.push(root);
+                root = root->left;
+            }
+
+            root = stack.top();
+            stack.pop();
+            if (--k == 0) {
+                break;
+            }
+            root = root->right;
+        }
+
+        return root->val;
     }
 };
 ```
