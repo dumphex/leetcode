@@ -2,6 +2,7 @@
 
 |索引|难度|题目|解决方案|
 |----|----|----|--------|
+|54|简单|[面试题54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)|[cpp](../problem/54_kthLargest.md)|
 |94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[cpp](../problem/94_inorderTraversal.md)|
 |98|中等|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[cpp](../problem/98_isValidBST.md)|
 |100|简单|[相同的树](https://leetcode-cn.com/problems/same-tree/)|[cpp](../problem/100_isSameTree.md)|
