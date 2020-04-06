@@ -25,6 +25,7 @@
 |235|简单|[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[cpp](../problem/235_lowestCommonAncestor.md)|
 |236|中等|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[cpp](../problem/236_lowestCommonAncestor.md)|
 |429|中等|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|[cpp](../problem/429_levelOrder.md)|
+|538|简单|[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)|[cpp](../problem/538_convertBST.md)|
 |543|简单|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|[cpp](../problem/543_diameterOfBinaryTree.md)|
 |572|简单|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[cpp](../problem/572_isSubtree.md)|
 |589|中等|[N叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)|[cpp](../problem/589_preorder.md)|
@@ -33,3 +34,4 @@
 |654|中等|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)|[cpp](../problem/654_constructMaximumBinaryTree.md)|
 |958|中等|[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/)|[cpp](../problem/958_isCompleteTree.md)|
 |951|中等|[翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)|[cpp](../problem/951_flipEquiv.md)|
+|1038|简单|[从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/)|[cpp](../problem/1038_bstToGst.md)|

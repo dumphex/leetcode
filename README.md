@@ -90,6 +90,7 @@ Leetcode
 |470|中等|[用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|[cpp](algorithm/problem/470_rand10.md)|[数学](algorithm/tag/math.md)|
 |496|简单|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)|[cpp](algorithm/problem/496_nextGreaterElement.md)|[栈](algorithm/tag/stack.md)|
 |509|简单|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[cpp](algorithm/problem/509_fib.md)|[动态规划](algorithm/tag/dp.md)|
+|538|简单|[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)|[cpp](algorithm/problem/538_convertBST.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |543|简单|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|[cpp](algorithm/problem/543_diameterOfBinaryTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |561|简单|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)|[cpp](algorithm/problem/561_arrayPairSum.md)|[数组](algorithm/tag/array.md)|
 |572|简单|[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)|[cpp](algorithm/problem/572_isSubtree.md)|[二叉树](algorithm/tag/binary_tree.md)|
@@ -116,6 +117,7 @@ Leetcode
 |989|简单|[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)|[cpp](algorithm/problem/989_addToArrayForm.md)|[数组](algorithm/tag/array.md)|
 |991|中等|[坏了的计算器](https://leetcode-cn.com/problems/broken-calculator/)|[cpp](algorithm/problem/991_brokenCalc.md)|[贪心算法](algorithm/tag/greedy.md)|
 |1013|简单|[将数组分成和相等的三个部分](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)|[cpp](algorithm/problem/1013_canThreePartsEqualSum.md)|[数组](algorithm/tag/array.md)|
+|1038|简单|[从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/)|[cpp](algorithm/problem/1038_bstToGst.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |1071|简单|[字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/)|[cpp](algorithm/problem/1071_gcdOfStrings.md)|[字符串](algorithm/tag/string.md)|
 |1716|简单|[面试题 17.16. 按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci/)|[cpp](algorithm/problem/1716_massage.md)|[动态规划](algorithm/tag/dp.md)|
 
