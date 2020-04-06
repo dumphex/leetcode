@@ -9,6 +9,7 @@ Leetcode
 |9|简单|[回文数](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|[cpp](algorithm/problem/9_isPalindrome.md)|[字符串](algorithm/tag/string.md)|
 |11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[cpp](algorithm/problem/11_maxArea.md)|[数组](algorithm/tag/array.md)|
 |15|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)|[cpp](algorithm/problem/15_threeSum.md)|[数组](algorithm/tag/array.md)|
+|16|中等|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|[cpp](algorithm/problem/16_threeSumClosest.md)|[数组](algorithm/tag/array.md)|
 |21|简单|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[cpp](algorithm/problem/21_mergeTwoLists.md)|[链表](algorithm/tag/link_list.md)|
 |24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](algorithm/problem/24_swapPairs.md)|[链表](algorithm/tag/link_list.md)|
 |33|中等|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[cpp](algorithm/problem/33_search.md)|[二分查找](algorithm/tag/binary_search.md)|
