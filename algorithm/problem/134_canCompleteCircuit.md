@@ -47,7 +47,7 @@ cost = [3,4,3]
 
 # Solution
 
-## 两次遍历
+## 多次遍历
 ```cpp
 class Solution {
 public:

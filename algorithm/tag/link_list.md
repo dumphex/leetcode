@@ -5,6 +5,7 @@
 |2|中等|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[cpp](../problem/2_addTwoNumbers.md)|
 |21|简单|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[cpp](../problem/21_mergeTwoLists.md)|
 |24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](../problem/24_swapPairs.md)|
+|25|中等|[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|[cpp](../problem/25_reverseKGroup.md)|
 |92|中等|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|[cpp](../problem/92_reverseBetween.md)|
 |141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[cpp](../problem/141_hasCycle.md)|
 |142|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[cpp](../problem/142_detectCycle.md)|
