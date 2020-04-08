@@ -2,11 +2,13 @@
 
 |索引|难度|题目|解决方案|
 |----|----|----|--------|
+|3|中等|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[cpp](../problem/3_lengthOfLongestSubstring.md)|
 |11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[cpp](../problem/11_maxArea.md)|
 |15|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)|[cpp](../problem/15_threeSum.md)|
 |16|中等|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|[cpp](../problem/16_threeSumClosest.md)|
 |18|中等|[四数之和](https://leetcode-cn.com/problems/4sum/)|[cpp](../problem/18_fourSum.md)|
 |41|困难|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|[cpp](../problem/41_firstMissingPositive.md)|
+|42|困难|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|[cpp](../problem/42_trap.md)|
 |57|简单|[面试题57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|[cpp](../problem/57_twoSum.md)|
 |57|简单|[面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|[cpp](../problem/57_findContinuousSequence.md)|
 |66|简单|[加一](https://leetcode-cn.com/problems/plus-one/)|[cpp](../problem/66_plusOne.md)|
