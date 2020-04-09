@@ -2,6 +2,7 @@
 
 |索引|难度|题目|解决方案|
 |----|----|----|--------|
+|4|困难|[寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[cpp](../problem/4_findMedianSortedArrays.md)|
 |33|中等|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[cpp](../problem/33_search.md)|
 |50|中等|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|[cpp](../problem/50_myPow.md)|
 |69|简单|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[cpp](../problem/69_mySqrt.md)|
