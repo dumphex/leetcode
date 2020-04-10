@@ -52,6 +52,7 @@ Leetcode
 |120|中等|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[cpp](algorithm/problem/120_minimumTotal.md)|[动态规划](algorithm/tag/dp.md)|
 |121|简单|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[cpp](algorithm/problem/121_maxProfit.md)|[数组](algorithm/tag/array.md)|
 |124|困难|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|[cpp](algorithm/problem/124_maxPathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|128|困难|[最长连续序列](https://leetcode-cn.com/problems/two-sum/)|[cpp](algorithm/problem/128_longestConsecutive.md)|[哈希表](algorithm/tag/hash_table.md)|
 |134|中等|[加油站](https://leetcode-cn.com/problems/gas-station/)|[cpp](algorithm/problem/134_canCompleteCircuit.md)|[数组](algorithm/tag/array.md)|
 |136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](algorithm/problem/136_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/array.md)|
