@@ -9,6 +9,7 @@
 |92|中等|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|[cpp](../problem/92_reverseBetween.md)|
 |141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[cpp](../problem/141_hasCycle.md)|
 |142|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[cpp](../problem/142_detectCycle.md)|
+|148|中等|[排序链表](https://leetcode-cn.com/problems/sort-list/)|[cpp](../problem/148_sortList.md)|
 |160|简单|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[cpp](../problem/160_getIntersectionNode.md)|
 |206|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[cpp](../problem/206_reverseList.md)|
 |234|简单|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[cpp](../problem/234_isPalindrome.md)|

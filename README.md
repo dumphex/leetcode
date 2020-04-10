@@ -59,6 +59,7 @@ Leetcode
 |144|中等|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[cpp](algorithm/problem/144_preorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |145|困难|[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)|[cpp](algorithm/problem/145_postorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |146|中等|[LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)|[cpp](algorithm/problem/146_LRUCache.md)|[哈希表](algorithm/tag/hash_table.md)|
+|148|中等|[排序链表](https://leetcode-cn.com/problems/sort-list/)|[cpp](algorithm/problem/148_sortList.md)|[链表](algorithm/tag/link_list.md)|
 |151|中等|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|[cpp](algorithm/problem/151_reverseWords.md)|[字符串](algorithm/tag/string.md)|
 |155|简单|[最小栈](https://leetcode-cn.com/problems/min-stack/)|[cpp](algorithm/problem/155_MinStack.md)|[栈](algorithm/tag/stack.md)|
 |160|简单|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[cpp](algorithm/problem/160_getIntersectionNode.md)|[链表](algorithm/tag/link_list.md)|
