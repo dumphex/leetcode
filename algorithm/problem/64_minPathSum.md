@@ -38,7 +38,7 @@ public:
 
         for (size_t i = 1; i < m; i++) {
             for(size_t j = 1; j < n; j++) {
-                dp[i][j] = std::min(dp[i - 1][j], dp[i][j - 1]) + grid[i][j];
+                dp[i][j] += std::min(dp[i - 1][j], dp[i][j - 1]);
             }
         }
 
