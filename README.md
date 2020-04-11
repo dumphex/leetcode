@@ -35,6 +35,7 @@ Leetcode
 |66|简单|[加一](https://leetcode-cn.com/problems/plus-one/)|[cpp](algorithm/problem/66_plusOne.md)|[数组](algorithm/tag/array.md)|
 |69|简单|[x 的平方根](https://leetcode-cn.com/problems/sqrtx/)|[cpp](algorithm/problem/69_mySqrt.md)|[二分查找](algorithm/tag/binary_search.md)|
 |70|简单|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)|[cpp](algorithm/problem/70_climbStairs.md)|[动态规划](algorithm/tag/dp.md)|
+|84|困难|[柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)|[cpp](algorithm/problem/84_largestRectangleArea.md)|[栈](algorithm/tag/stack.md)|
 |92|中等|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|[cpp](algorithm/problem/92_reverseBetween.md)|[链表](algorithm/tag/link_list.md)|
 |94|中等|[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)|[cpp](algorithm/problem/94_inorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |98|中等|[验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)|[cpp](algorithm/problem/98_isValidBST.md)|[二叉树](algorithm/tag/binary_tree.md)|
