@@ -2,6 +2,7 @@
 
 |索引|难度|题目|解决方案|
 |----|----|----|--------|
+|5|中等|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[cpp](../problem/5_longestPalindrome.md)|
 |53|简单|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[cpp](../problem/53_maxSubArray.md)|
 |62|中等|[不同路径](https://leetcode-cn.com/problems/unique-paths/)|[cpp](../problem/62_uniquePaths.md)|
 |64|中等|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)|[cpp](../problem/64_minPathSum.md)|

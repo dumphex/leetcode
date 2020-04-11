@@ -8,6 +8,7 @@ Leetcode
 |2|中等|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[cpp](algorithm/problem/2_addTwoNumbers.md)|[链表](algorithm/tag/link_list.md)|
 |3|中等|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[cpp](algorithm/problem/3_lengthOfLongestSubstring.md)|[数组](algorithm/tag/array.md)|
 |4|困难|[寻找两个有序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)|[cpp](algorithm/problem/4_findMedianSortedArrays.md)|[二分查找](algorithm/tag/binary_search.md)|
+|5|中等|[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)|[cpp](algorithm/problem/5_longestPalindrome.md)|[动态规划](algorithm/tag/dp.md)|
 |9|简单|[回文数](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|[cpp](algorithm/problem/9_isPalindrome.md)|[字符串](algorithm/tag/string.md)|
 |11|中等|[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)|[cpp](algorithm/problem/11_maxArea.md)|[数组](algorithm/tag/array.md)|
 |15|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)|[cpp](algorithm/problem/15_threeSum.md)|[数组](algorithm/tag/array.md)|
