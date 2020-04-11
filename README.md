@@ -98,8 +98,10 @@ Leetcode
 |415|简单|[字符串相加](https://leetcode-cn.com/problems/add-strings/)|[cpp](algorithm/problem/415_addStrings.md)|[字符串](algorithm/tag/string.md)|
 |429|中等|[N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/)|[cpp](algorithm/problem/429_levelOrder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |448|简单|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[cpp](algorithm/problem/448_findDisappearedNumbers.md)|[数组](algorithm/tag/array.md)|
+|461|简单|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[cpp](algorithm/problem/461_hammingDistance.md)|[数字](algorithm/tag/digit.md)|
 |470|中等|[用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|[cpp](algorithm/problem/470_rand10.md)|[数学](algorithm/tag/math.md)|
 |496|简单|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)|[cpp](algorithm/problem/496_nextGreaterElement.md)|[栈](algorithm/tag/stack.md)|
+|503|中等|[下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)|[cpp](algorithm/problem/503_nextGreaterElements.md)|[栈](algorithm/tag/stack.md)|
 |509|简单|[斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/)|[cpp](algorithm/problem/509_fib.md)|[动态规划](algorithm/tag/dp.md)|
 |538|简单|[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/)|[cpp](algorithm/problem/538_convertBST.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |543|简单|[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|[cpp](algorithm/problem/543_diameterOfBinaryTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
