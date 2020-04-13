@@ -86,6 +86,7 @@ Leetcode
 |239|困难|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|[cpp](algorithm/problem/239_maxSlidingWindow.md)|[数组](algorithm/tag/array.md)|
 |260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/array.md)|
 |268|简单|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|[cpp](algorithm/problem/268_missingNumber.md)|[数组](algorithm/tag/array.md)|
+|283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|[cpp](algorithm/problem/283_moveZeroes.md)|[数组](algorithm/tag/array.md)|
 |287|中等|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)|[cpp](algorithm/problem/287_findDuplicate.md)|[数组](algorithm/tag/array.md)|
 |295|困难|[数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)|[cpp](algorithm/problem/295_MedianFinder.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |300|中等|[最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)|[cpp](algorithm/problem/300_lengthOfLIS.md)|[动态规划](algorithm/tag/dp.md)|

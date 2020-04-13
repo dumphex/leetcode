@@ -22,6 +22,7 @@
 |239|困难|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|[cpp](../problem/239_maxSlidingWindow.md)|
 |260|中等|[只出现一次的数字III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](../problem/260_singleNumber.md)|
 |268|简单|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|[cpp](../problem/268_missingNumber.md)|
+|283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|[cpp](../problem/283_moveZeroes.md)|
 |287|中等|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)|[cpp](../problem/287_findDuplicate.md)|
 |448|简单|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[cpp](../problem/448_findDisappearedNumbers.md)|
 |561|简单|[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)|[cpp](../problem/561_arrayPairSum.md)|
