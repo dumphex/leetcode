@@ -9,6 +9,7 @@
 |18|中等|[四数之和](https://leetcode-cn.com/problems/4sum/)|[cpp](../problem/18_fourSum.md)|
 |41|困难|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|[cpp](../problem/41_firstMissingPositive.md)|
 |42|困难|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|[cpp](../problem/42_trap.md)|
+|48|中等|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[cpp](../problem/48_rotate.md)|
 |57|简单|[面试题57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|[cpp](../problem/57_twoSum.md)|
 |57|简单|[面试题57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)|[cpp](../problem/57_findContinuousSequence.md)|
 |66|简单|[加一](https://leetcode-cn.com/problems/plus-one/)|[cpp](../problem/66_plusOne.md)|
