@@ -100,6 +100,7 @@ Leetcode
 |347|中等|[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)|[cpp](algorithm/problem/347_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |365|中等|[水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/)|[cpp](algorithm/problem/365_canMeasureWater.md)|[数学](algorithm/tag/math.md)|
 |371|简单|[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)|[cpp](algorithm/problem/371_getSum.md)|[数学](algorithm/tag/math.md)|
+|380|困难|[常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)|[cpp](algorithm/problem/380_RandomizedSet.md)|[哈希表](algorithm/tag/hash_table.md)|
 |392|简单|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|[cpp](algorithm/problem/392_isSubsequence.md)|[字符串](algorithm/tag/string.md)|
 |409|简单|[最长回文串](https://leetcode-cn.com/problems/longest-palindrome/)|[cpp](algorithm/problem/409_longestPalindrome.md)|[字符串](algorithm/tag/string.md)|
 |415|简单|[字符串相加](https://leetcode-cn.com/problems/add-strings/)|[cpp](algorithm/problem/415_addStrings.md)|[字符串](algorithm/tag/string.md)|
