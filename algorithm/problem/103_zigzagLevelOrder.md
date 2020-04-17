@@ -46,8 +46,9 @@ public:
         int size = 0;
         while(!queue.empty()) {
             level++;
-            vector<int> tmp;
             size = queue.size();
+            vector<int> tmp;
+            tmp.reserve(size);
             while(size--) {
                 TreeNode *p = queue.front();
                 queue.pop();
