@@ -54,6 +54,7 @@ Leetcode
 |112|简单|[路径总和](https://leetcode-cn.com/problems/path-sum/)|[cpp](algorithm/problem/112_hasPathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |113|中等|[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)|[cpp](algorithm/problem/113_pathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |114|中等|[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)|[cpp](algorithm/problem/114_flatten.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|116|中等|[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)|[cpp](algorithm/problem/116_connect.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |120|中等|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[cpp](algorithm/problem/120_minimumTotal.md)|[动态规划](algorithm/tag/dp.md)|
 |121|简单|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[cpp](algorithm/problem/121_maxProfit.md)|[数组](algorithm/tag/array.md)|
 |124|困难|[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)|[cpp](algorithm/problem/124_maxPathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
