@@ -73,6 +73,7 @@ Leetcode
 |160|简单|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[cpp](algorithm/problem/160_getIntersectionNode.md)|[链表](algorithm/tag/link_list.md)|
 |169|简单|[多数元素](https://leetcode-cn.com/problems/majority-element/)|[cpp](algorithm/problem/169_majorityElement.md)|[数组](algorithm/tag/array.md)|
 |187|中等|[重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)|[cpp](algorithm/problem/187_findRepeatedDnaSequences.md)|[字符串](algorithm/tag/string.md)|
+|190|简单|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)|[cpp](algorithm/problem/190_reverseBits.md)|[比特位](algorithm/tag/bit.md)|
 |198|简单|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|[cpp](algorithm/problem/198_rob.md)|[动态规划](algorithm/tag/dp.md)|
 |199|中等|[二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)|[cpp](algorithm/problem/199_rightSideView.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |206|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[cpp](algorithm/problem/206_reverseList.md)|[链表](algorithm/tag/link_list.md)|
