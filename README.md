@@ -76,6 +76,7 @@ Leetcode
 |169|简单|[多数元素](https://leetcode-cn.com/problems/majority-element/)|[cpp](algorithm/problem/169_majorityElement.md)|[数组](algorithm/tag/array.md)|
 |187|中等|[重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)|[cpp](algorithm/problem/187_findRepeatedDnaSequences.md)|[字符串](algorithm/tag/string.md)|
 |190|简单|[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)|[cpp](algorithm/problem/190_reverseBits.md)|[比特位](algorithm/tag/bit.md)|
+|191|简单|[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)|[cpp](algorithm/problem/191_hammingWeight.md)|[比特位](algorithm/tag/bit.md)|
 |198|简单|[打家劫舍](https://leetcode-cn.com/problems/house-robber/)|[cpp](algorithm/problem/198_rob.md)|[动态规划](algorithm/tag/dp.md)|
 |199|中等|[二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)|[cpp](algorithm/problem/199_rightSideView.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |206|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[cpp](algorithm/problem/206_reverseList.md)|[链表](algorithm/tag/link_list.md)|
@@ -114,7 +115,7 @@ Leetcode
 |437|简单|[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/)|[cpp](algorithm/problem/437_pathSum.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |445|中等|[两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/)|[cpp](algorithm/problem/445_addTwoNumbers.md)|[链表](algorithm/tag/link_list.md)|
 |448|简单|[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)|[cpp](algorithm/problem/448_findDisappearedNumbers.md)|[数组](algorithm/tag/array.md)|
-|461|简单|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[cpp](algorithm/problem/461_hammingDistance.md)|[数字](algorithm/tag/digit.md)|
+|461|简单|[汉明距离](https://leetcode-cn.com/problems/hamming-distance/)|[cpp](algorithm/problem/461_hammingDistance.md)|[数字](algorithm/tag/bit.md)|
 |470|中等|[用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)|[cpp](algorithm/problem/470_rand10.md)|[数学](algorithm/tag/math.md)|
 |496|简单|[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/)|[cpp](algorithm/problem/496_nextGreaterElement.md)|[栈](algorithm/tag/stack.md)|
 |503|中等|[下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)|[cpp](algorithm/problem/503_nextGreaterElements.md)|[栈](algorithm/tag/stack.md)|
