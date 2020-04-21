@@ -61,8 +61,8 @@ Leetcode
 |125|简单|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[cpp](algorithm/problem/125_isPalindrome.md)|[字符串](algorithm/tag/string.md)|
 |128|困难|[最长连续序列](https://leetcode-cn.com/problems/two-sum/)|[cpp](algorithm/problem/128_longestConsecutive.md)|[哈希表](algorithm/tag/hash_table.md)|
 |134|中等|[加油站](https://leetcode-cn.com/problems/gas-station/)|[cpp](algorithm/problem/134_canCompleteCircuit.md)|[数组](algorithm/tag/array.md)|
-|136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](algorithm/problem/136_singleNumber.md)|[数组](algorithm/tag/array.md)|
-|137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/array.md)|
+|136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](algorithm/problem/136_singleNumber.md)|[数组](algorithm/tag/bit.md)|
+|137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/bit.md)|
 |141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[cpp](algorithm/problem/141_hasCycle.md)|[链表](algorithm/tag/link_list.md)|
 |142|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[cpp](algorithm/problem/142_detectCycle.md)|[链表](algorithm/tag/link_list.md)|
 |144|中等|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[cpp](algorithm/problem/144_preorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
@@ -92,7 +92,7 @@ Leetcode
 |236|中等|[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[cpp](algorithm/problem/236_lowestCommonAncestor.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |237|简单|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[cpp](algorithm/problem/237_deleteNode.md)|[链表](algorithm/tag/link_list.md)|
 |239|困难|[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)|[cpp](algorithm/problem/239_maxSlidingWindow.md)|[数组](algorithm/tag/array.md)|
-|260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/array.md)|
+|260|中等|[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/)|[cpp](algorithm/problem/260_singleNumber.md)|[数组](algorithm/tag/bit.md)|
 |268|简单|[缺失数字](https://leetcode-cn.com/problems/missing-number/)|[cpp](algorithm/problem/268_missingNumber.md)|[数组](algorithm/tag/array.md)|
 |283|简单|[移动零](https://leetcode-cn.com/problems/move-zeroes/)|[cpp](algorithm/problem/283_moveZeroes.md)|[数组](algorithm/tag/array.md)|
 |287|中等|[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)|[cpp](algorithm/problem/287_findDuplicate.md)|[数组](algorithm/tag/array.md)|

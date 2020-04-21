@@ -28,6 +28,10 @@ n 是 32 位有符号整数，其数值范围是 [−231, 231 − 1] 。
 class Solution {
 public:
     double myPow(double x, int n) {
+        if (x > -0.000001 && x < 0.000001) {
+            return 0.0;
+        }
+
         bool negative = false;
         long long num = n;
         if (num < 0) {
