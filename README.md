@@ -65,6 +65,7 @@ Leetcode
 |134|中等|[加油站](https://leetcode-cn.com/problems/gas-station/)|[cpp](algorithm/problem/134_canCompleteCircuit.md)|[数组](algorithm/tag/array.md)|
 |136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](algorithm/problem/136_singleNumber.md)|[数组](algorithm/tag/bit.md)|
 |137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/bit.md)|
+|138|中等|[138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|[cpp](algorithm/problem/138_copyRandomList.md)|[链表](algorithm/tag/link_list.md)|
 |141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[cpp](algorithm/problem/141_hasCycle.md)|[链表](algorithm/tag/link_list.md)|
 |142|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[cpp](algorithm/problem/142_detectCycle.md)|[链表](algorithm/tag/link_list.md)|
 |144|中等|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[cpp](algorithm/problem/144_preorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|

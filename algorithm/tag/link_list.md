@@ -8,6 +8,7 @@
 |24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](../problem/24_swapPairs.md)|
 |25|中等|[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|[cpp](../problem/25_reverseKGroup.md)|
 |92|中等|[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)|[cpp](../problem/92_reverseBetween.md)|
+|138|中等|[138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|[cpp](../problem/138_copyRandomList.md)|
 |141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[cpp](../problem/141_hasCycle.md)|
 |142|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[cpp](../problem/142_detectCycle.md)|
 |148|中等|[排序链表](https://leetcode-cn.com/problems/sort-list/)|[cpp](../problem/148_sortList.md)|
