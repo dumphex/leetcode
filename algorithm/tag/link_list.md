@@ -12,6 +12,7 @@
 |142|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[cpp](../problem/142_detectCycle.md)|
 |148|中等|[排序链表](https://leetcode-cn.com/problems/sort-list/)|[cpp](../problem/148_sortList.md)|
 |160|简单|[相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)|[cpp](../problem/160_getIntersectionNode.md)|
+|202|简单|[面试题 02.02. 返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/)|[cpp](../problem/202_kthToLast.md)|
 |206|简单|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[cpp](../problem/206_reverseList.md)|
 |234|简单|[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)|[cpp](../problem/234_isPalindrome.md)|
 |237|简单|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|[cpp](../problem/237_deleteNode.md)|
