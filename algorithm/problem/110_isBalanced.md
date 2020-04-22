@@ -34,6 +34,7 @@
 
 # Solution
 
+## solution1: 自顶向下递归
 ```cpp
 /**
  * Definition for a binary tree node.
@@ -68,6 +69,46 @@ public:
         int l_height = getHeight(root->left);
         int r_height = getHeight(root->right);
         return std::max(l_height, r_height) + 1;
+    }
+};
+```
+
+
+## solution2: 自底向上递归
+```cpp
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    bool isBalanced(TreeNode* root) {
+        int depth = 0;
+        return doIsBalanced(root, depth);
+    }
+
+private:
+    bool doIsBalanced(TreeNode *root, int & depth) {
+        if (root == nullptr) {
+            depth = 0;
+            return true;
+        }
+
+        int left = 0;
+        int right = 0;
+        if (doIsBalanced(root->left, left) &&
+            doIsBalanced(root->right, right) &&
+            std::abs(left - right) <= 1) {
+            depth = 1 + std::max(left, right);
+            return true;
+        }
+
+        return false;
     }
 };
 ```
