@@ -7,6 +7,7 @@
 |15|中等|[三数之和](https://leetcode-cn.com/problems/3sum/)|[cpp](../problem/15_threeSum.md)|
 |16|中等|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|[cpp](../problem/16_threeSumClosest.md)|
 |18|中等|[四数之和](https://leetcode-cn.com/problems/4sum/)|[cpp](../problem/18_fourSum.md)|
+|21|中等|[面试题21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|[cpp](../problem/21_exchange.md)|
 |41|困难|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|[cpp](../problem/41_firstMissingPositive.md)|
 |42|困难|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|[cpp](../problem/42_trap.md)|
 |48|中等|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[cpp](../problem/48_rotate.md)|
