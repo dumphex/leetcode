@@ -15,7 +15,7 @@ Leetcode
 |16|中等|[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/)|[cpp](algorithm/problem/16_threeSumClosest.md)|[数组](algorithm/tag/array.md)|
 |18|中等|[四数之和](https://leetcode-cn.com/problems/4sum/)|[cpp](algorithm/problem/18_fourSum.md)|[数组](algorithm/tag/array.md)|
 |21|简单|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[cpp](algorithm/problem/21_mergeTwoLists.md)|[链表](algorithm/tag/link_list.md)|
-|21|中等|[面试题21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|[cpp](algorithm/problem/21_exchange.md)|[数组](algorithm/tag/array.md)|
+|21|简单|[面试题21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|[cpp](algorithm/problem/21_exchange.md)|[数组](algorithm/tag/array.md)|
 |24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](algorithm/problem/24_swapPairs.md)|[链表](algorithm/tag/link_list.md)|
 |23|困难|[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|[cpp](algorithm/problem/23_mergeKLists.md)|[链表](algorithm/tag/link_list.md)|
 |25|困难|[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|[cpp](algorithm/problem/25_reverseKGroup.md)|[链表](algorithm/tag/link_list.md)|
@@ -23,6 +23,7 @@ Leetcode
 |33|中等|[面试题33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)|[cpp](algorithm/problem/33_verifyPostorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |34|中等|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[cpp](algorithm/problem/34_searchRange.md)|[二分查找](algorithm/tag/binary_search.md)|
 |36|中等|[面试题36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/)|[cpp](algorithm/problem/36_treeToDoublyList.md)|[二叉树](algorithm/tag/binary_tree.md)|
+|39|简单|[面试题39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)|[cpp](algorithm/problem/39_majorityElement.md)|[数组](algorithm/tag/array.md)|
 |40|简单|[面试题40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)|[cpp](algorithm/problem/40_getLeastNumbers.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |41|困难|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)|[cpp](algorithm/problem/41_firstMissingPositive.md)|[数组](algorithm/tag/array.md)|
 |42|困难|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|[cpp](algorithm/problem/42_trap.md)|[数组](algorithm/tag/array.md)|
@@ -66,7 +67,7 @@ Leetcode
 |134|中等|[加油站](https://leetcode-cn.com/problems/gas-station/)|[cpp](algorithm/problem/134_canCompleteCircuit.md)|[数组](algorithm/tag/array.md)|
 |136|简单|[只出现一次的数字I](https://leetcode-cn.com/problems/single-number/)|[cpp](algorithm/problem/136_singleNumber.md)|[数组](algorithm/tag/bit.md)|
 |137|中等|[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/)|[cpp](algorithm/problem/137_singleNumber.md)|[数组](algorithm/tag/bit.md)|
-|138|中等|[138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|[cpp](algorithm/problem/138_copyRandomList.md)|[链表](algorithm/tag/link_list.md)|
+|138|中等|[复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)|[cpp](algorithm/problem/138_copyRandomList.md)|[链表](algorithm/tag/link_list.md)|
 |141|简单|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[cpp](algorithm/problem/141_hasCycle.md)|[链表](algorithm/tag/link_list.md)|
 |142|中等|[环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[cpp](algorithm/problem/142_detectCycle.md)|[链表](algorithm/tag/link_list.md)|
 |144|中等|[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)|[cpp](algorithm/problem/144_preorderTraversal.md)|[二叉树](algorithm/tag/binary_tree.md)|
