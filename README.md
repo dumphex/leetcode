@@ -29,6 +29,7 @@ Leetcode
 |42|困难|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)|[cpp](algorithm/problem/42_trap.md)|[数组](algorithm/tag/array.md)|
 |48|中等|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)|[cpp](algorithm/problem/48_rotate.md)|[数组](algorithm/tag/array.md)|
 |49|中等|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)|[cpp](algorithm/problem/49_groupAnagrams.md)|[哈希表](algorithm/tag/hash_table.md)|
+|50|简单|[面试题50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)|[cpp](algorithm/problem/50_firstUniqChar.md)|[哈希表](algorithm/tag/hash_table.md)|
 |50|中等|[Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)|[cpp](algorithm/problem/50_myPow.md)|[二分查找](algorithm/tag/binary_search.md)|
 |53|简单|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[cpp](algorithm/problem/53_maxSubArray.md)|[动态规划](algorithm/tag/dp.md)|
 |54|简单|[面试题54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)|[cpp](algorithm/problem/54_kthLargest.md)|[二叉树](algorithm/tag/binary_tree.md)|
