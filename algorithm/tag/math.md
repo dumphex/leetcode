@@ -2,6 +2,7 @@
 
 |索引|难度|题目|解决方案|
 |----|----|----|--------|
+|7|简单|[3的幂](https://leetcode-cn.com/problems/reverse-integer/)|[cpp](../problem/7_reverse.md)|
 |326|简单|[3的幂](https://leetcode-cn.com/problems/power-of-three/)|[cpp](../problem/326_isPowerOfThree.md)|
 |365|中等|[水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/)|[cpp](../problem/365_canMeasureWater.md)|
 |371|简单|[两整数相加](https://leetcode-cn.com/problems/sum-of-two-integers/)|[cpp](../problem/371_getSum.md)|
