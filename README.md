@@ -17,9 +17,10 @@ Leetcode
 |18|中等|[四数之和](https://leetcode-cn.com/problems/4sum/)|[cpp](algorithm/problem/18_fourSum.md)|[数组](algorithm/tag/array.md)|
 |21|简单|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)|[cpp](algorithm/problem/21_mergeTwoLists.md)|[链表](algorithm/tag/link_list.md)|
 |21|简单|[面试题21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|[cpp](algorithm/problem/21_exchange.md)|[数组](algorithm/tag/array.md)|
-|24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](algorithm/problem/24_swapPairs.md)|[链表](algorithm/tag/link_list.md)|
 |23|困难|[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)|[cpp](algorithm/problem/23_mergeKLists.md)|[链表](algorithm/tag/link_list.md)|
+|24|中等|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)|[cpp](algorithm/problem/24_swapPairs.md)|[链表](algorithm/tag/link_list.md)|
 |25|困难|[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)|[cpp](algorithm/problem/25_reverseKGroup.md)|[链表](algorithm/tag/link_list.md)|
+|28|简单|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[cpp](algorithm/problem/28_strStr.md)|[字符串](algorithm/tag/string.md)|
 |33|中等|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)|[cpp](algorithm/problem/33_search.md)|[二分查找](algorithm/tag/binary_search.md)|
 |33|中等|[面试题33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/)|[cpp](algorithm/problem/33_verifyPostorder.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |34|中等|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[cpp](algorithm/problem/34_searchRange.md)|[二分查找](algorithm/tag/binary_search.md)|

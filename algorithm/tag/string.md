@@ -3,6 +3,7 @@
 |索引|难度|题目|解决方案|
 |----|----|----|--------|
 |9|简单|[回文数](https://leetcode-cn.com/problems/palindrome-number/)|[cpp](../problem/9_isPalindrome.md)|
+|28|简单|[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/)|[cpp](../problem/28_strStr.md)|
 |125|简单|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[cpp](../problem/125_isPalindrome.md)|
 |392|简单|[判断子序列](https://leetcode-cn.com/problems/is-subsequence/)|[cpp](../problem/392_isSubsequence.md)|
 |151|中等|[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)|[cpp](../problem/151_reverseWords.md)|
