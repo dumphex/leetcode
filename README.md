@@ -141,6 +141,7 @@ Leetcode
 |654|中等|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)|[cpp](algorithm/problem/654_constructMaximumBinaryTree.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |692|中等|[前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)|[cpp](algorithm/problem/692_topKFrequent.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |697|简单|[数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)|[cpp](algorithm/problem/697_findShortestSubArray.md)|[哈希表](algorithm/tag/hash_table.md)|
+|700|简单|[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|[cpp](algorithm/problem/700_searchBST.md)|[二叉树](algorithm/tag/binary_tree.md)|
 |703|简单|[数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)|[cpp](algorithm/problem/703_KthLargest.md)|[二叉堆](algorithm/tag/binary_heap.md)|
 |704|简单|[二分查找](https://leetcode-cn.com/problems/binary-search/)|[cpp](algorithm/problem/704_search.md)|[二分查找](algorithm/tag/binary_search.md)|
 |739|中等|[每日温度](https://leetcode-cn.com/problems/daily-temperatures/)|[cpp](algorithm/problem/739_dailyTemperatures.md)|[栈](algorithm/tag/stack.md)|

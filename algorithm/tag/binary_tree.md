@@ -38,6 +38,7 @@
 |590|简单|[N叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)|[cpp](../problem/590_postorder.md)|
 |617|简单|[合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/)|[cpp](../problem/617_mergeTrees.md)|
 |654|中等|[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)|[cpp](../problem/654_constructMaximumBinaryTree.md)|
+|700|简单|[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/)|[cpp](../problem/700_searchBST.md)|
 |958|中等|[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/)|[cpp](../problem/958_isCompleteTree.md)|
 |951|中等|[翻转等价二叉树](https://leetcode-cn.com/problems/flip-equivalent-binary-trees/)|[cpp](../problem/951_flipEquiv.md)|
 |1038|简单|[从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/)|[cpp](../problem/1038_bstToGst.md)|
